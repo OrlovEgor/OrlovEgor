@@ -2,11 +2,11 @@
 
  I am Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
   
-  - :telescope: I’m Software Engineer and contributing to frontend and backend for building Android applications.
+ - 🤔 I’m Software Engineer and contributing to Android applications.
 
 - :seedling: Exploring Android Content Writing.
 
-- :zap: In my free time,  read tech articles.
+- 😄 In my free time,  read tech articles.
  
 ### Contacts: 💬
  - TG: @DBNOrlov
